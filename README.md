@@ -1,4 +1,4 @@
-# meteorToDo
+# meteorToDo is a small toDo app which uses mongoDB, typescript, eact and meteor. 
 
 How to run this project?
 1- You need to install global meteor from : https://www.meteor.com/install   
