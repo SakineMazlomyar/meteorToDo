@@ -7,7 +7,8 @@
 1- You need to install global meteor from : https://www.meteor.com/install   
 
 2- you open the terminal in the folder which you have the project and run this command in cmd or powershell: meteor create .
-(you will get a folder name .meteor which is a meteor project)
+
+(you will get a folder name .meteor which is a meteor project # OBG: don not forget point)
 
 3- you open the terminal in the folder which you have the project and run this command in cmd or powershell: meteor remove blaze-html-templates tracker 
 
