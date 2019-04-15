@@ -9,3 +9,5 @@
 3- When you open the project run this command first in your terminal for installing all dependecies: npm install 
 
 4- When you want to run the project you need to run this command in your powershell or cmd: meteor
+
+5-then you will get an adress which you can search in your browser: localhost:3000
