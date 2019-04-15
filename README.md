@@ -6,13 +6,13 @@
 
 1- You need to install global meteor from : https://www.meteor.com/install   
 
-2- you open the terminal in the folder which you have the project and run this command in cmd or powershell: meteor create .
+2- Open the terminal in the folder which you have the project and run this command in cmd or powershell: meteor create .
 
-(you will get a folder name .meteor which is a meteor project # OBG: don not forget point)
+(OBG: don not forget point. you will get a folder name .meteor which is a meteor project)
 
-3- you open the terminal in the folder which you have the project and run this command in cmd or powershell: meteor remove blaze-html-templates tracker 
+3-Open the terminal in the folder which you have the project and run this command in cmd or powershell: meteor remove blaze-html-templates tracker 
 
-4-you open the terminal in the folder which you have the project and run this command in cmd or powershell: meteor add barbatus:typescript static-html
+4-Open the terminal in the folder which you have the project and run this command in cmd or powershell: meteor add barbatus:typescript static-html
 
 5- Then you run in your powershell or cmd : npm install
 (It install all dependecies)
